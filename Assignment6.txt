@@ -7,4 +7,4 @@ GitHub pages.
 1). Tailwind Assignment Task-1 Login page URL :- https://stately-choux-0d95b9.netlify.app/
 2). Tailwind Assignment Task-2 Image Gallery URL :- https://visionary-blancmange-60d139.netlify.app/
 3). Tailwind Assignment Task-3 Dashboard URL :- https://zingy-paletas-350f17.netlify.app/
-4). webpage-clone-project URK :- https://precious-kleicha-cbca84.netlify.app/
+4). webpage-clone-project URL link :- https://precious-kleicha-cbca84.netlify.app/
