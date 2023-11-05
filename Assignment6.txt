@@ -8,3 +8,4 @@ GitHub pages.
 2). Tailwind Assignment Task-2 Image Gallery URL :- https://visionary-blancmange-60d139.netlify.app/
 3). Tailwind Assignment Task-3 Dashboard URL :- https://zingy-paletas-350f17.netlify.app/
 4). webpage-clone-project URL link :- https://precious-kleicha-cbca84.netlify.app/
+5). Resume-template-project URL link - https://narotam-mishra.github.io/resume-template-project/
